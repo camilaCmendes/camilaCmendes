@@ -1,4 +1,7 @@
-### Hi there 👋
+# Camila Mendes 🍀
+<a href="https://www.linkedin.com/in/camila-de-carvalho-mendes-ab3411148/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" /></a>
+
+
 
 <!--
 **camilaCmendes/camilaCmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
