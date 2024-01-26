@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/camila-de-carvalho-mendes-ab3411148/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" /></a>
 
 ### Olá dev 
-Bem vindo ao meu GitHut, tenho 26 anos sou de São Paulo, sou formada em engenharia da computação e trabalho como dev tem 4 anos, nesse tempo nem tão curto e nem tão longo em busca de conhecimento venho me desenvolvendo como desenvolvedora frontend.
+Bem vindo ao meu GitHut, tenho 26 anos sou de São Paulo, sou formada em engenharia da computação e trabalho como dev tem 4 anos, nesse tempo nem tão curto e nem tão longo em busca de conhecimento venho me desenvolvendo como uma dev frontend.
 
 <p  align="center">
   <img width="300" src="https://github.com/camilaCmendes/camilaCmendes/assets/44913787/9a8e55d5-0278-442d-8874-e13e8a5703eb" alt="animated" />
