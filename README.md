@@ -8,10 +8,6 @@ Bem vindo ao meu GitHut, tenho 26 anos sou de São Paulo, sou formada em engenha
   <img width="300" src="https://github.com/camilaCmendes/camilaCmendes/assets/44913787/9a8e55d5-0278-442d-8874-e13e8a5703eb" alt="animated" />
 </p>
 
-Atualmente trabalho na Tembici empresa líder na américa latina de tecnologia para micro mobilidade, nosso propósito é de inspirar uma revolução global de mobilidade 🚴
-
-Na empresa atuo como desenvolvedora na equipe frontend participando em novas iniciativas, manténdo codebases, participando de reuniões, etc etc 
-
 ## Tecnologias e ferramentas
 <p background="#fff">
 <img width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
