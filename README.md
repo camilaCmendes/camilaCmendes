@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/camila-de-carvalho-mendes-ab3411148/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" /></a>
 
 ### Olá dev 
-Bem vindo ao meu GitHut! Me chamo Camila, tenho 26 anos e sou de São Paulo. Sou formada em Engenharia da Computação e trabalho como desenvolvedora frontend há 4 anos. Durante esse tempo tenho me dedicado ao mundo do desenvolvimento, me especializando no React. Busco estar sempre me atualizar para manter meus conhecimentos em dia e meu código atual.
+Bem vindo ao meu GitHut! Me chamo Camila, tenho 26 anos e sou de São Paulo. Sou formada em Engenharia da Computação e trabalho como desenvolvedora há 4 anos. Durante esse tempo tenho me dedicado ao mundo do desenvolvimento, me especializando no Frontend. Busco estar sempre me atualizar para manter meus conhecimentos em dia e meu código atual.
 
 <p  align="center">
   <img width="300" src="https://github.com/camilaCmendes/camilaCmendes/assets/44913787/9a8e55d5-0278-442d-8874-e13e8a5703eb" alt="animated" />
@@ -31,7 +31,7 @@ Aqui no meu GitHub, você encontrará uma variedade de projetos que refletem min
 <a href="https://www.linkedin.com/in/camila-de-carvalho-mendes-ab3411148/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" /></a>
 
 ### Hello, dev!
-Welcome to my GitHub! My name is Camila, I am 26 years old and from São Paulo. I have a degree in Computer Engineering and have been working as a frontend developer for 4 years. During this time, I dedicated myself to the world of development, specializing in React. I am always looking to keep myself updated to keep my knowledge and code current.
+Welcome to my GitHub! My name is Camila, I am 26 years old and from São Paulo. I have a degree in Computer Engineering and have been working as a developer for 4 years. During this time, I dedicated myself to the world of development, specializing in Frontend. I am always looking to keep myself updated to keep my knowledge and code current.
 
 <p  align="center">
   <img width="300" src="https://github.com/camilaCmendes/camilaCmendes/assets/44913787/9a8e55d5-0278-442d-8874-e13e8a5703eb" alt="animated" />
